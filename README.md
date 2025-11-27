@@ -1,9 +1,9 @@
-✨ Projeto de Ordenação em C++ ✨
+# ✨ Projeto de Ordenação em C++ ✨
 
 Este repositório contém um programinha em C++ feito para praticar técnicas clássicas de ordenação.
 Tudo bem simples, organizado e lindinho — perfeito para estudo e para treinar lógica! 💛
 
-🎯 O que o programa faz?
+## 🎯 O que o programa faz?
 
 O sistema trabalha com um vetor de números inteiros e permite:
 
@@ -27,7 +27,7 @@ Quick Sort
 
 Tudo isso através de um menu interativo no terminal! 🐥✨
 
-🧠 Conceitos praticados
+## 🧠 Conceitos praticados
 
 Este projeto é perfeito para quem quer estudar:
 
@@ -43,7 +43,7 @@ Estruturas de menu em C++
 
 Organização de código em classes 
 
-▶️ Como executar
+## ▶️ Como executar
 
 Compile usando g++:
 
