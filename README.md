@@ -1,7 +1,6 @@
 # ✨ Projeto de Ordenação em C++ ✨
 
-Este repositório contém um programinha em C++ feito para praticar técnicas clássicas de ordenação.
-Tudo bem simples, organizado e lindinho — perfeito para estudo e para treinar lógica! 💛
+Este repositório contém um programa em C++ feito para praticar técnicas clássicas de ordenação.
 
 ## 🎯 O que o programa faz?
 
@@ -25,7 +24,7 @@ Quick Sort
 
 🌼 Gerar vetores aleatórios de qualquer tamanho (modo manual)
 
-Tudo isso através de um menu interativo no terminal! 🐥✨
+Tudo isso através de um menu interativo no terminal! 
 
 ## 🧠 Conceitos praticados
 
