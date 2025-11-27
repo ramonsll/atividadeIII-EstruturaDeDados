@@ -6,7 +6,7 @@ Este repositório contém um programa em C++ feito para praticar técnicas clás
 
 O sistema trabalha com um vetor de números inteiros e permite:
 
-🌼 Gerar automaticamente uma lista com 10 números aleatórios
+🌼 Gerar automaticamente uma lista com números aleatórios
 
 🌼 Visualizar o vetor atual
 
